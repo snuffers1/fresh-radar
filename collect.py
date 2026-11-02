@@ -21,6 +21,8 @@ WINDOW_DAYS = 14       # окно свежих роликов
 BASELINE_N = 30        # сколько роликов берём для медианы
 MIN_AGE_DAYS = 7       # в медиану только ролики старше недели
 SHORT_SEC = 180        # короче — считаем шортсом
+SUBS_RATIO_X = 1.5     # просмотры ≥ 1,5× подписчиков канала — приоритетный сигнал
+MIN_VIEWS = 5000       # нижний порог, чтобы крошечные каналы не шумели
 
 
 def get(url, headers=None, timeout=30):
@@ -100,12 +102,20 @@ def youtube():
         except Exception as e:  # noqa: BLE001
             errors.append(f"{h}: {e}")
         time.sleep(0.1)
-    outliers = [
-        {**v, "channel": c["title"], "handle": c["handle"], "median_views": c["median_views"]}
-        for c in out for v in c["fresh"]
-        if v.get("multiple") and v["multiple"] >= OUTLIER_X
-    ]
-    outliers.sort(key=lambda v: v["multiple"], reverse=True)
+    outliers = []
+    for c in out:
+        for v in c["fresh"]:
+            subs = c["subs"] or 0
+            ratio = round(v["views"] / subs, 2) if subs else None
+            v["subs_ratio"] = ratio  # просмотры / подписчики канала
+            big_multiple = v.get("multiple") and v["multiple"] >= OUTLIER_X
+            beats_subs = ratio is not None and ratio >= SUBS_RATIO_X and v["views"] >= MIN_VIEWS
+            if big_multiple or beats_subs:
+                outliers.append({**v, "channel": c["title"], "handle": c["handle"],
+                                 "subs": subs, "median_views": c["median_views"],
+                                 "priority": bool(beats_subs)})
+    # сначала ролики, обогнавшие подписчиков канала (чем сильнее, тем выше), потом по кратности медианы
+    outliers.sort(key=lambda v: (v["priority"], v["subs_ratio"] or 0, v.get("multiple") or 0), reverse=True)
     return {"outliers": outliers, "channels": out, "errors": errors}
 
 
@@ -175,10 +185,50 @@ def essays():
     return {"items": items, "errors": errors}
 
 
+def save_thumb(url, name, max_bytes=3_000_000):
+    """Скачивает картинку в data/thumbs/<name>.<ext>, возвращает путь или None."""
+    try:
+        raw = get(url, timeout=20)
+        if len(raw) > max_bytes or len(raw) < 2000:
+            return None
+        ext = "png" if raw[:4] == b"\x89PNG" else "webp" if raw[8:12] == b"WEBP" else "jpg"
+        os.makedirs("data/thumbs", exist_ok=True)
+        path = f"data/thumbs/{name}.{ext}"
+        with open(path, "wb") as fh:
+            fh.write(raw)
+        return path
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def og_image(page_url):
+    try:
+        html = get(page_url, timeout=20)[:300_000].decode("utf-8", "ignore")
+    except Exception:  # noqa: BLE001
+        return None
+    m = (re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html)
+         or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', html)
+         or re.search(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)', html))
+    return m.group(1).replace("&amp;", "&") if m else None
+
+
+def thumbs(data):
+    for o in data["youtube"].get("outliers", []):
+        vid = o["id"]
+        o["thumb"] = (save_thumb(f"https://i.ytimg.com/vi/{vid}/hq720.jpg", f"yt-{vid}")
+                      or save_thumb(f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg", f"yt-{vid}"))
+    for i, e in enumerate(data["essays"]["items"]):
+        img = og_image(e["url"]) if e.get("url") else None
+        if img:
+            slug = re.sub(r"[^a-z0-9]+", "-", e["url"].lower())[-60:].strip("-")
+            e["thumb"] = save_thumb(img, f"essay-{slug}")
+
+
 def main():
     data = {"generated_at": NOW.isoformat(), "settings": {
         "outlier_x": OUTLIER_X, "window_days": WINDOW_DAYS},
         "youtube": youtube(), "reddit": reddit(), "essays": essays()}
+    thumbs(data)
     os.makedirs("data", exist_ok=True)
     for p in ("data/latest.json", f"data/{NOW.date()}.json"):
         with open(p, "w", encoding="utf-8") as fh:
