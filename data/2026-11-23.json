@@ -1,0 +1,2826 @@
+{
+ "generated_at": "2026-11-23T09:10:26.151707+00:00",
+ "settings": {
+  "outlier_x": 5,
+  "window_days": 14
+ },
+ "youtube": {
+  "outliers": [
+   {
+    "id": "nmm3I-aFbwg",
+    "title": "I Found a Secret AI Slop Predator Network on TikTok",
+    "published": "2026-11-17T17:44:32Z",
+    "age_days": 5.6,
+    "duration_min": 8.8,
+    "short": false,
+    "views": 206061,
+    "comments": 470,
+    "multiple": 98.76,
+    "views_per_day": 36797,
+    "url": "https://www.youtube.com/watch?v=nmm3I-aFbwg",
+    "subs_ratio": 22.92,
+    "channel": "Jack Deyzan ",
+    "handle": "@JackDeyzan",
+    "subs": 8990,
+    "median_views": 2086.5,
+    "priority": true,
+    "thumb": "data/thumbs/yt-nmm3I-aFbwg.jpg"
+   },
+   {
+    "id": "SMSzoaj9RlA",
+    "title": "School Bathrooms Are GENUINELY DISGUSTING",
+    "published": "2026-11-13T23:30:23Z",
+    "age_days": 9.4,
+    "duration_min": 6.6,
+    "short": false,
+    "views": 1580386,
+    "comments": 723,
+    "multiple": 8.51,
+    "views_per_day": 168126,
+    "url": "https://www.youtube.com/watch?v=SMSzoaj9RlA",
+    "subs_ratio": 22.45,
+    "channel": "chulde",
+    "handle": "@chulde",
+    "subs": 70400,
+    "median_views": 185644.0,
+    "priority": true,
+    "thumb": "data/thumbs/yt-SMSzoaj9RlA.jpg"
+   },
+   {
+    "id": "-y8tCwDosqQ",
+    "title": "Yeah... no wonder gen z is obsessed with locking in.",
+    "published": "2026-11-13T17:00:09Z",
+    "age_days": 9.7,
+    "duration_min": 13.3,
+    "short": false,
+    "views": 302557,
+    "comments": 301,
+    "multiple": 6.28,
+    "views_per_day": 31191,
+    "url": "https://www.youtube.com/watch?v=-y8tCwDosqQ",
+    "subs_ratio": 8.52,
+    "channel": "Coal Hastings",
+    "handle": "@CoalHastings",
+    "subs": 35500,
+    "median_views": 48181.0,
+    "priority": true,
+    "thumb": "data/thumbs/yt--y8tCwDosqQ.jpg"
+   },
+   {
+    "id": "0rQrOEHrqio",
+    "title": "Can Democrats Get to 60 Senate Seats?",
+    "published": "2026-11-16T16:15:05Z",
+    "age_days": 6.7,
+    "duration_min": 28.4,
+    "short": false,
+    "views": 368035,
+    "comments": 1713,
+    "multiple": 1.75,
+    "views_per_day": 54931,
+    "url": "https://www.youtube.com/watch?v=0rQrOEHrqio",
+    "subs_ratio": 4.3,
+    "channel": "Aidan Hall",
+    "handle": "@aidan_hall",
+    "subs": 85600,
+    "median_views": 210497.0,
+    "priority": true,
+    "thumb": "data/thumbs/yt-0rQrOEHrqio.jpg"
+   },
+   {
+    "id": "TovRt5SyOlg",
+    "title": "17 Things I Learned From the Midterms",
+    "published": "2026-11-09T15:38:34Z",
+    "age_days": 13.7,
+    "duration_min": 25.9,
+    "short": false,
+    "views": 356972,
+    "comments": 2477,
+    "multiple": 1.7,
+    "views_per_day": 26056,
+    "url": "https://www.youtube.com/watch?v=TovRt5SyOlg",
+    "subs_ratio": 4.17,
+    "channel": "Aidan Hall",
+    "handle": "@aidan_hall",
+    "subs": 85600,
+    "median_views": 210497.0,
+    "priority": true,
+    "thumb": "data/thumbs/yt-TovRt5SyOlg.jpg"
+   },
+   {
+    "id": "OXwwYvoW9H4",
+    "title": "The AI Takeover Has Completely BACKFIRED",
+    "published": "2026-11-18T01:47:36Z",
+    "age_days": 5.3,
+    "duration_min": 22.6,
+    "short": false,
+    "views": 851374,
+    "comments": 3050,
+    "multiple": 1.41,
+    "views_per_day": 160637,
+    "url": "https://www.youtube.com/watch?v=OXwwYvoW9H4",
+    "subs_ratio": 2.45,
+    "channel": "Damon Cassidy",
+    "handle": "@DamonCassidy",
+    "subs": 347000,
+    "median_views": 603093.0,
+    "priority": true,
+    "thumb": "data/thumbs/yt-OXwwYvoW9H4.jpg"
+   },
+   {
+    "id": "4xOmCLmd9fg",
+    "title": "Buying GTA 6 MIGHT be for Retards",
+    "published": "2026-11-17T17:56:52Z",
+    "age_days": 5.6,
+    "duration_min": 9.3,
+    "short": false,
+    "views": 302288,
+    "comments": 0,
+    "multiple": null,
+    "views_per_day": 53980,
+    "url": "https://www.youtube.com/watch?v=4xOmCLmd9fg",
+    "subs_ratio": 2.24,
+    "channel": "Ramboh",
+    "handle": "@Ramboh",
+    "subs": 135000,
+    "median_views": null,
+    "priority": true,
+    "thumb": "data/thumbs/yt-4xOmCLmd9fg.jpg"
+   },
+   {
+    "id": "sK79oJtZAFs",
+    "title": "It Begins: A Human Brain Was Put on a Computer, and It’s Suffering",
+    "published": "2026-11-10T17:04:34Z",
+    "age_days": 12.7,
+    "duration_min": 25.1,
+    "short": false,
+    "views": 1648867,
+    "comments": 3445,
+    "multiple": 5.47,
+    "views_per_day": 129832,
+    "url": "https://www.youtube.com/watch?v=sK79oJtZAFs",
+    "subs_ratio": 0.47,
+    "channel": "Pursuit of Wonder",
+    "handle": "@PursuitofWonder",
+    "subs": 3520000,
+    "median_views": 301587.5,
+    "priority": false,
+    "thumb": "data/thumbs/yt-sK79oJtZAFs.jpg"
+   },
+   {
+    "id": "aXMcY83KXUU",
+    "title": "DON'T PLAY GTA6",
+    "published": "2026-11-17T18:37:24Z",
+    "age_days": 5.6,
+    "duration_min": 6.8,
+    "short": false,
+    "views": 49311,
+    "comments": 246,
+    "multiple": 5.95,
+    "views_per_day": 8806,
+    "url": "https://www.youtube.com/watch?v=aXMcY83KXUU",
+    "subs_ratio": 0.14,
+    "channel": "Henry Poston",
+    "handle": "@henryposton",
+    "subs": 353000,
+    "median_views": 8291,
+    "priority": false,
+    "thumb": "data/thumbs/yt-aXMcY83KXUU.jpg"
+   }
+  ],
+  "channels": [
+   {
+    "handle": "@TheLouisZhao",
+    "title": "Louis Zhao",
+    "subs": 104000,
+    "median_views": 36031.0,
+    "fresh": [
+     {
+      "id": "t9zZHYBGyDc",
+      "title": "Why Gen Z Don't Party Anymore",
+      "published": "2026-11-12T13:50:28Z",
+      "age_days": 10.8,
+      "duration_min": 55.4,
+      "short": false,
+      "views": 28501,
+      "comments": 215,
+      "multiple": 0.79,
+      "views_per_day": 2639,
+      "url": "https://www.youtube.com/watch?v=t9zZHYBGyDc",
+      "subs_ratio": 0.27
+     }
+    ]
+   },
+   {
+    "handle": "@wrong_trousers",
+    "title": "wrong trousers",
+    "subs": 148000,
+    "median_views": 312101.5,
+    "fresh": []
+   },
+   {
+    "handle": "@NewelOfKnowledge",
+    "title": "Newel of Knowledge ",
+    "subs": 738000,
+    "median_views": 120398.0,
+    "fresh": [
+     {
+      "id": "tub3SR-xWHI",
+      "title": "why you feel tired all the time & how to get your energy back..",
+      "published": "2026-11-10T15:31:51Z",
+      "age_days": 12.7,
+      "duration_min": 17.6,
+      "short": false,
+      "views": 62742,
+      "comments": 192,
+      "multiple": 0.52,
+      "views_per_day": 4940,
+      "url": "https://www.youtube.com/watch?v=tub3SR-xWHI",
+      "subs_ratio": 0.09
+     }
+    ]
+   },
+   {
+    "handle": "@henrygreyearls",
+    "title": "Henry Grey Earls",
+    "subs": 291000,
+    "median_views": null,
+    "fresh": [
+     {
+      "id": "Ov0NLCbojDw",
+      "title": "homelessmaxxing in nyc at 24 | hosting an art show, enjoying life & more",
+      "published": "2026-11-16T05:00:39Z",
+      "age_days": 7.2,
+      "duration_min": 8.6,
+      "short": false,
+      "views": 9868,
+      "comments": 16,
+      "multiple": null,
+      "views_per_day": 1371,
+      "url": "https://www.youtube.com/watch?v=Ov0NLCbojDw",
+      "subs_ratio": 0.03
+     }
+    ]
+   },
+   {
+    "handle": "@Ramboh",
+    "title": "Ramboh",
+    "subs": 135000,
+    "median_views": null,
+    "fresh": [
+     {
+      "id": "at-spPrEOQI",
+      "title": "college dropout recording videos",
+      "published": "2026-11-21T09:23:31Z",
+      "age_days": 2.0,
+      "duration_min": 57.8,
+      "short": false,
+      "views": 1925,
+      "comments": 1,
+      "multiple": null,
+      "views_per_day": 962,
+      "url": "https://www.youtube.com/watch?v=at-spPrEOQI",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "TTNQabupQiA",
+      "title": "Sadly, GTA 6 MIGHT be a masterpiece",
+      "published": "2026-11-19T19:40:08Z",
+      "age_days": 3.6,
+      "duration_min": 8.8,
+      "short": false,
+      "views": 32845,
+      "comments": 291,
+      "multiple": null,
+      "views_per_day": 9124,
+      "url": "https://www.youtube.com/watch?v=TTNQabupQiA",
+      "subs_ratio": 0.24
+     },
+     {
+      "id": "4xOmCLmd9fg",
+      "title": "Buying GTA 6 MIGHT be for Retards",
+      "published": "2026-11-17T17:56:52Z",
+      "age_days": 5.6,
+      "duration_min": 9.3,
+      "short": false,
+      "views": 302288,
+      "comments": 0,
+      "multiple": null,
+      "views_per_day": 53980,
+      "url": "https://www.youtube.com/watch?v=4xOmCLmd9fg",
+      "subs_ratio": 2.24
+     },
+     {
+      "id": "ZJvEWZCkVZM",
+      "title": "college dropout recording videos",
+      "published": "2026-11-14T19:00:44Z",
+      "age_days": 8.6,
+      "duration_min": 100.7,
+      "short": false,
+      "views": 2666,
+      "comments": 0,
+      "multiple": null,
+      "views_per_day": 310,
+      "url": "https://www.youtube.com/watch?v=ZJvEWZCkVZM",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "a3KVewk2UJc",
+      "title": "Why Being Ugly MIGHT Be WORSE Than Death",
+      "published": "2026-11-12T20:34:33Z",
+      "age_days": 10.5,
+      "duration_min": 18.7,
+      "short": false,
+      "views": 136594,
+      "comments": 894,
+      "multiple": null,
+      "views_per_day": 13009,
+      "url": "https://www.youtube.com/watch?v=a3KVewk2UJc",
+      "subs_ratio": 1.01
+     },
+     {
+      "id": "xibiABEGAhI",
+      "title": "college dropout recording videos",
+      "published": "2026-11-11T08:12:04Z",
+      "age_days": 12.0,
+      "duration_min": 46.9,
+      "short": false,
+      "views": 1881,
+      "comments": 0,
+      "multiple": null,
+      "views_per_day": 157,
+      "url": "https://www.youtube.com/watch?v=xibiABEGAhI",
+      "subs_ratio": 0.01
+     }
+    ]
+   },
+   {
+    "handle": "@JoeBartGames",
+    "title": "Joe Bart Games",
+    "subs": 2830000,
+    "median_views": 1274683.5,
+    "fresh": [
+     {
+      "id": "Mfc6Um3v8tc",
+      "title": "Killing Cutelings To Feed The Masses [Can Em All 1/2]",
+      "published": "2026-11-22T15:49:48Z",
+      "age_days": 0.7,
+      "duration_min": 119.7,
+      "short": false,
+      "views": 623348,
+      "comments": 417,
+      "multiple": 0.49,
+      "views_per_day": 890497,
+      "url": "https://www.youtube.com/watch?v=Mfc6Um3v8tc",
+      "subs_ratio": 0.22
+     },
+     {
+      "id": "d1sON289sGk",
+      "title": "I Finally Won A Blockwars Tournament...",
+      "published": "2026-11-21T16:09:34Z",
+      "age_days": 1.7,
+      "duration_min": 134.8,
+      "short": false,
+      "views": 375569,
+      "comments": 241,
+      "multiple": 0.29,
+      "views_per_day": 220923,
+      "url": "https://www.youtube.com/watch?v=d1sON289sGk",
+      "subs_ratio": 0.13
+     },
+     {
+      "id": "VjP-8rvoI4w",
+      "title": "My Favorite Indie Horror This Year.. [CH 13 Rest Stop]",
+      "published": "2026-11-20T14:16:02Z",
+      "age_days": 2.8,
+      "duration_min": 43.8,
+      "short": false,
+      "views": 939867,
+      "comments": 559,
+      "multiple": 0.74,
+      "views_per_day": 335667,
+      "url": "https://www.youtube.com/watch?v=VjP-8rvoI4w",
+      "subs_ratio": 0.33
+     },
+     {
+      "id": "XAHs6QTnNRw",
+      "title": "You Must Make It To Through Every Floor… [Psalm 2]",
+      "published": "2026-11-19T13:16:55Z",
+      "age_days": 3.8,
+      "duration_min": 30.8,
+      "short": false,
+      "views": 486340,
+      "comments": 258,
+      "multiple": 0.38,
+      "views_per_day": 127984,
+      "url": "https://www.youtube.com/watch?v=XAHs6QTnNRw",
+      "subs_ratio": 0.17
+     },
+     {
+      "id": "20xRg2WYMKs",
+      "title": "The Late Night Shopping Spree Massacre...",
+      "published": "2026-11-18T15:24:26Z",
+      "age_days": 4.7,
+      "duration_min": 50.7,
+      "short": false,
+      "views": 976757,
+      "comments": 364,
+      "multiple": 0.77,
+      "views_per_day": 207821,
+      "url": "https://www.youtube.com/watch?v=20xRg2WYMKs",
+      "subs_ratio": 0.35
+     },
+     {
+      "id": "o_VTIA-ICHQ",
+      "title": "Trolling My Friends In Haunted Heist...",
+      "published": "2026-11-17T15:01:45Z",
+      "age_days": 5.8,
+      "duration_min": 80.8,
+      "short": false,
+      "views": 913900,
+      "comments": 333,
+      "multiple": 0.72,
+      "views_per_day": 157569,
+      "url": "https://www.youtube.com/watch?v=o_VTIA-ICHQ",
+      "subs_ratio": 0.32
+     },
+     {
+      "id": "GDf8gPvxiGo",
+      "title": "The Parkour Podcast...",
+      "published": "2026-11-16T15:06:33Z",
+      "age_days": 6.8,
+      "duration_min": 40.5,
+      "short": false,
+      "views": 1530378,
+      "comments": 673,
+      "multiple": 1.2,
+      "views_per_day": 225056,
+      "url": "https://www.youtube.com/watch?v=GDf8gPvxiGo",
+      "subs_ratio": 0.54
+     },
+     {
+      "id": "syukTAi0juc",
+      "title": "I Am The Tiger Woods Of Videogame Golf",
+      "published": "2026-11-15T20:35:10Z",
+      "age_days": 7.5,
+      "duration_min": 36.0,
+      "short": false,
+      "views": 815567,
+      "comments": 292,
+      "multiple": 0.64,
+      "views_per_day": 108742,
+      "url": "https://www.youtube.com/watch?v=syukTAi0juc",
+      "subs_ratio": 0.29
+     },
+     {
+      "id": "oI-oYXgAQts",
+      "title": "The Fortnite Pirate Token Podcast",
+      "published": "2026-11-14T19:47:33Z",
+      "age_days": 8.6,
+      "duration_min": 99.3,
+      "short": false,
+      "views": 957222,
+      "comments": 447,
+      "multiple": 0.75,
+      "views_per_day": 111305,
+      "url": "https://www.youtube.com/watch?v=oI-oYXgAQts",
+      "subs_ratio": 0.34
+     },
+     {
+      "id": "-nVxgK34STU",
+      "title": "Searching For The Fortnite Pirate Token…",
+      "published": "2026-11-13T23:37:09Z",
+      "age_days": 9.4,
+      "duration_min": 25.8,
+      "short": false,
+      "views": 1550504,
+      "comments": 653,
+      "multiple": 1.22,
+      "views_per_day": 164947,
+      "url": "https://www.youtube.com/watch?v=-nVxgK34STU",
+      "subs_ratio": 0.55
+     },
+     {
+      "id": "JFCy54WA4h0",
+      "title": "Literally Collecting One Million Coins...",
+      "published": "2026-11-10T16:11:34Z",
+      "age_days": 12.7,
+      "duration_min": 112.5,
+      "short": false,
+      "views": 3462002,
+      "comments": 965,
+      "multiple": 2.72,
+      "views_per_day": 272599,
+      "url": "https://www.youtube.com/watch?v=JFCy54WA4h0",
+      "subs_ratio": 1.22
+     },
+     {
+      "id": "4hodvSCTwD0",
+      "title": "Don’t Let The Humans Into The Bar…",
+      "published": "2026-11-09T14:57:18Z",
+      "age_days": 13.8,
+      "duration_min": 74.2,
+      "short": false,
+      "views": 2941904,
+      "comments": 851,
+      "multiple": 2.31,
+      "views_per_day": 213181,
+      "url": "https://www.youtube.com/watch?v=4hodvSCTwD0",
+      "subs_ratio": 1.04
+     }
+    ]
+   },
+   {
+    "handle": "@James____Edward",
+    "title": "James Edward",
+    "subs": 1410000,
+    "median_views": 57195,
+    "fresh": [
+     {
+      "id": "IcZSc4z4M3w",
+      "title": "I Got a Haircut at the World’s Oldest Barbershop (The British Royals Barbershop)",
+      "published": "2026-11-15T16:00:03Z",
+      "age_days": 7.7,
+      "duration_min": 12.4,
+      "short": false,
+      "views": 185441,
+      "comments": 73,
+      "multiple": 3.24,
+      "views_per_day": 24083,
+      "url": "https://www.youtube.com/watch?v=IcZSc4z4M3w",
+      "subs_ratio": 0.13
+     }
+    ]
+   },
+   {
+    "handle": "@aidan_hall",
+    "title": "Aidan Hall",
+    "subs": 85600,
+    "median_views": 210497.0,
+    "fresh": [
+     {
+      "id": "0rQrOEHrqio",
+      "title": "Can Democrats Get to 60 Senate Seats?",
+      "published": "2026-11-16T16:15:05Z",
+      "age_days": 6.7,
+      "duration_min": 28.4,
+      "short": false,
+      "views": 368035,
+      "comments": 1713,
+      "multiple": 1.75,
+      "views_per_day": 54931,
+      "url": "https://www.youtube.com/watch?v=0rQrOEHrqio",
+      "subs_ratio": 4.3
+     },
+     {
+      "id": "TovRt5SyOlg",
+      "title": "17 Things I Learned From the Midterms",
+      "published": "2026-11-09T15:38:34Z",
+      "age_days": 13.7,
+      "duration_min": 25.9,
+      "short": false,
+      "views": 356972,
+      "comments": 2477,
+      "multiple": 1.7,
+      "views_per_day": 26056,
+      "url": "https://www.youtube.com/watch?v=TovRt5SyOlg",
+      "subs_ratio": 4.17
+     }
+    ]
+   },
+   {
+    "handle": "@Eternalised",
+    "title": "Eternalised",
+    "subs": 1100000,
+    "median_views": 256157,
+    "fresh": []
+   },
+   {
+    "handle": "@henryposton",
+    "title": "Henry Poston",
+    "subs": 353000,
+    "median_views": 8291,
+    "fresh": [
+     {
+      "id": "7wWrOEBfzr0",
+      "title": "You might miss them even if you chose to lose them",
+      "published": "2026-11-23T05:38:04Z",
+      "age_days": 0.1,
+      "duration_min": 9.9,
+      "short": false,
+      "views": 410,
+      "comments": 5,
+      "multiple": 0.05,
+      "views_per_day": 820,
+      "url": "https://www.youtube.com/watch?v=7wWrOEBfzr0",
+      "subs_ratio": 0.0
+     },
+     {
+      "id": "zdqNGWqanD0",
+      "title": "my phone is completely broken :(",
+      "published": "2026-11-23T00:49:27Z",
+      "age_days": 0.3,
+      "duration_min": 131.4,
+      "short": false,
+      "views": 7141,
+      "comments": 16,
+      "multiple": 0.86,
+      "views_per_day": 14282,
+      "url": "https://www.youtube.com/watch?v=zdqNGWqanD0",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "NDd7iUQ_Nf8",
+      "title": "-3°C 🥶 Snow Today! ☃️ Just Finished Our 62 Hour Straight Livestream 😴 World's Only Daily IRL Streame",
+      "published": "2026-11-22T12:16:18Z",
+      "age_days": 0.9,
+      "duration_min": 102.3,
+      "short": false,
+      "views": 5205,
+      "comments": 11,
+      "multiple": 0.63,
+      "views_per_day": 5783,
+      "url": "https://www.youtube.com/watch?v=NDd7iUQ_Nf8",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "GSqhB-XDW3E",
+      "title": "The person you miss no longer exists",
+      "published": "2026-11-22T02:47:27Z",
+      "age_days": 1.3,
+      "duration_min": 11.1,
+      "short": false,
+      "views": 6044,
+      "comments": 54,
+      "multiple": 0.73,
+      "views_per_day": 4649,
+      "url": "https://www.youtube.com/watch?v=GSqhB-XDW3E",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "GU60YKGDjmM",
+      "title": "I'VE BEEN LIVE FOR 60 HOURS STRAIGHT 🤯",
+      "published": "2026-11-21T01:18:02Z",
+      "age_days": 2.3,
+      "duration_min": 186.4,
+      "short": false,
+      "views": 8872,
+      "comments": 17,
+      "multiple": 1.07,
+      "views_per_day": 3857,
+      "url": "https://www.youtube.com/watch?v=GU60YKGDjmM",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "ViofKTPlFn8",
+      "title": "100+ HOUR LIVESTREAM 🤯",
+      "published": "2026-11-20T01:15:44Z",
+      "age_days": 3.3,
+      "duration_min": 183.3,
+      "short": false,
+      "views": 7106,
+      "comments": 4,
+      "multiple": 0.86,
+      "views_per_day": 2153,
+      "url": "https://www.youtube.com/watch?v=ViofKTPlFn8",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "szjMwPYCxVw",
+      "title": "100+ HOUR GTA LIVESTREAM 💯",
+      "published": "2026-11-19T23:48:32Z",
+      "age_days": 3.4,
+      "duration_min": 398.1,
+      "short": false,
+      "views": 12060,
+      "comments": 2,
+      "multiple": 1.45,
+      "views_per_day": 3547,
+      "url": "https://www.youtube.com/watch?v=szjMwPYCxVw",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "_Jy_hJAAOfw",
+      "title": "Hi Me In Two Weeks",
+      "published": "2026-11-19T18:00:19Z",
+      "age_days": 3.6,
+      "duration_min": 5.2,
+      "short": false,
+      "views": 2733,
+      "comments": 9,
+      "multiple": 0.33,
+      "views_per_day": 759,
+      "url": "https://www.youtube.com/watch?v=_Jy_hJAAOfw",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "ehDhskuxtHU",
+      "title": "100+ HOUR GTA LIVESTREAM 💯 One All Nighter Down 😴",
+      "published": "2026-11-19T00:53:18Z",
+      "age_days": 4.3,
+      "duration_min": 151.6,
+      "short": false,
+      "views": 8391,
+      "comments": 5,
+      "multiple": 1.01,
+      "views_per_day": 1951,
+      "url": "https://www.youtube.com/watch?v=ehDhskuxtHU",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "CjVuXb4E8FA",
+      "title": "100+ HOUR GTA6 LIVESTREAM! Running off NO sleep :D",
+      "published": "2026-11-18T22:56:57Z",
+      "age_days": 4.4,
+      "duration_min": 652.8,
+      "short": false,
+      "views": 22328,
+      "comments": 3,
+      "multiple": 2.69,
+      "views_per_day": 5075,
+      "url": "https://www.youtube.com/watch?v=CjVuXb4E8FA",
+      "subs_ratio": 0.06
+     },
+     {
+      "id": "NzinrOhEl9M",
+      "title": "100+ HOUR GTA6 STREAM STARTS TOMORROW 🔥 1st person to ever play it? 👀 GOAT Coffinboarder 🐐 #1 YT 🕺",
+      "published": "2026-11-18T00:53:54Z",
+      "age_days": 5.3,
+      "duration_min": 146.7,
+      "short": false,
+      "views": 7971,
+      "comments": 12,
+      "multiple": 0.96,
+      "views_per_day": 1504,
+      "url": "https://www.youtube.com/watch?v=NzinrOhEl9M",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "0dP6KqPKmFY",
+      "title": "chillout before you burnout",
+      "published": "2026-11-17T20:53:36Z",
+      "age_days": 5.5,
+      "duration_min": 5.8,
+      "short": false,
+      "views": 3759,
+      "comments": 20,
+      "multiple": 0.45,
+      "views_per_day": 683,
+      "url": "https://www.youtube.com/watch?v=0dP6KqPKmFY",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "aXMcY83KXUU",
+      "title": "DON'T PLAY GTA6",
+      "published": "2026-11-17T18:37:24Z",
+      "age_days": 5.6,
+      "duration_min": 6.8,
+      "short": false,
+      "views": 49311,
+      "comments": 246,
+      "multiple": 5.95,
+      "views_per_day": 8806,
+      "url": "https://www.youtube.com/watch?v=aXMcY83KXUU",
+      "subs_ratio": 0.14
+     },
+     {
+      "id": "_NHuySJxaVg",
+      "title": "One day, you’ll miss being nervous about this",
+      "published": "2026-11-17T05:16:31Z",
+      "age_days": 6.2,
+      "duration_min": 5.0,
+      "short": false,
+      "views": 4633,
+      "comments": 17,
+      "multiple": 0.56,
+      "views_per_day": 747,
+      "url": "https://www.youtube.com/watch?v=_NHuySJxaVg",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "dy9OSPJkwuE",
+      "title": "100+ HOUR GTA6 STREAM STARTS IN 2 DAYS 👀 Peak Vibes 🏔️ GOAT Coffinboarder 🐐 #1 YT Community 💯",
+      "published": "2026-11-17T02:27:13Z",
+      "age_days": 6.3,
+      "duration_min": 164.8,
+      "short": false,
+      "views": 9997,
+      "comments": 9,
+      "multiple": 1.21,
+      "views_per_day": 1587,
+      "url": "https://www.youtube.com/watch?v=dy9OSPJkwuE",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "hjOk23TiUdI",
+      "title": "You aren’t crazy... something isn’t right with people nowadays",
+      "published": "2026-11-16T19:40:58Z",
+      "age_days": 6.6,
+      "duration_min": 10.4,
+      "short": false,
+      "views": 11147,
+      "comments": 55,
+      "multiple": 1.34,
+      "views_per_day": 1689,
+      "url": "https://www.youtube.com/watch?v=hjOk23TiUdI",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "PrprHkSgnbA",
+      "title": "I just saw a bobcat!! Hope we run into it again 🐾 Live EVERY day 🔥 FREEZING COLD 🥶 Peak vibes 🏔️",
+      "published": "2026-11-16T00:57:34Z",
+      "age_days": 7.3,
+      "duration_min": 146.8,
+      "short": false,
+      "views": 8291,
+      "comments": 8,
+      "multiple": 1.0,
+      "views_per_day": 1136,
+      "url": "https://www.youtube.com/watch?v=PrprHkSgnbA",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "9yrGry8SOGw",
+      "title": "\"The price of loving someone very much is never loving again.\"",
+      "published": "2026-11-15T19:22:34Z",
+      "age_days": 7.6,
+      "duration_min": 11.8,
+      "short": false,
+      "views": 26376,
+      "comments": 79,
+      "multiple": 3.18,
+      "views_per_day": 3471,
+      "url": "https://www.youtube.com/watch?v=9yrGry8SOGw",
+      "subs_ratio": 0.07
+     },
+     {
+      "id": "FAq6UHDZBpw",
+      "title": "never let them steal your spark again",
+      "published": "2026-11-15T02:48:49Z",
+      "age_days": 8.3,
+      "duration_min": 10.3,
+      "short": false,
+      "views": 5735,
+      "comments": 50,
+      "multiple": 0.69,
+      "views_per_day": 691,
+      "url": "https://www.youtube.com/watch?v=FAq6UHDZBpw",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "tP5gx5TtIb0",
+      "title": "Below Freezing 🥶 Raining ⛈️ World's Only Daily IRL Streamer 🤔 PEAK VIBES 🏔️ #1 YouTube Community 💯",
+      "published": "2026-11-15T00:33:03Z",
+      "age_days": 8.4,
+      "duration_min": 147.7,
+      "short": false,
+      "views": 8684,
+      "comments": 9,
+      "multiple": 1.05,
+      "views_per_day": 1034,
+      "url": "https://www.youtube.com/watch?v=tP5gx5TtIb0",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "zi4BhdnAlzA",
+      "title": "An Inch Of Movement Is Better Than A Mile Of Intentions",
+      "published": "2026-11-14T05:08:56Z",
+      "age_days": 9.2,
+      "duration_min": 11.5,
+      "short": false,
+      "views": 4586,
+      "comments": 17,
+      "multiple": 0.55,
+      "views_per_day": 498,
+      "url": "https://www.youtube.com/watch?v=zi4BhdnAlzA",
+      "subs_ratio": 0.01
+     }
+    ]
+   },
+   {
+    "handle": "@Sehnend.",
+    "title": "Sehnend",
+    "subs": 370000,
+    "median_views": 19756.5,
+    "fresh": [
+     {
+      "id": "dk3wzpIvVl0",
+      "title": "The Secret to Entering the Spiritual World",
+      "published": "2026-11-21T19:32:14Z",
+      "age_days": 1.6,
+      "duration_min": 14.3,
+      "short": false,
+      "views": 20004,
+      "comments": 28,
+      "multiple": 1.01,
+      "views_per_day": 12502,
+      "url": "https://www.youtube.com/watch?v=dk3wzpIvVl0",
+      "subs_ratio": 0.05
+     },
+     {
+      "id": "mUmrvIr6w8A",
+      "title": "The Highest State of Being That Almost No One Reaches",
+      "published": "2026-11-19T20:06:27Z",
+      "age_days": 3.5,
+      "duration_min": 12.8,
+      "short": false,
+      "views": 13498,
+      "comments": 29,
+      "multiple": 0.68,
+      "views_per_day": 3857,
+      "url": "https://www.youtube.com/watch?v=mUmrvIr6w8A",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "SdnUp5GbZCM",
+      "title": "Become So MAGNETIC That What You Want Starts Looking for YOU",
+      "published": "2026-11-17T19:30:24Z",
+      "age_days": 5.6,
+      "duration_min": 15.8,
+      "short": false,
+      "views": 45462,
+      "comments": 26,
+      "multiple": 2.3,
+      "views_per_day": 8118,
+      "url": "https://www.youtube.com/watch?v=SdnUp5GbZCM",
+      "subs_ratio": 0.12
+     },
+     {
+      "id": "DehWpxsLpdc",
+      "title": "Tell Yourself Everything Will Always Work Out in Your Favor",
+      "published": "2026-11-15T20:00:15Z",
+      "age_days": 7.5,
+      "duration_min": 14.6,
+      "short": false,
+      "views": 13241,
+      "comments": 17,
+      "multiple": 0.67,
+      "views_per_day": 1765,
+      "url": "https://www.youtube.com/watch?v=DehWpxsLpdc",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "iaUWfrI_8zg",
+      "title": "You Have Been Praying To A God That Was Never Outside You",
+      "published": "2026-11-13T19:10:54Z",
+      "age_days": 9.6,
+      "duration_min": 15.9,
+      "short": false,
+      "views": 11540,
+      "comments": 52,
+      "multiple": 0.58,
+      "views_per_day": 1202,
+      "url": "https://www.youtube.com/watch?v=iaUWfrI_8zg",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "EMSjL9ACrWQ",
+      "title": "The Trance Is So Deep, You Think It's Reality",
+      "published": "2026-11-11T21:07:45Z",
+      "age_days": 11.5,
+      "duration_min": 19.3,
+      "short": false,
+      "views": 11878,
+      "comments": 19,
+      "multiple": 0.6,
+      "views_per_day": 1033,
+      "url": "https://www.youtube.com/watch?v=EMSjL9ACrWQ",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "NdtnqMM0_dI",
+      "title": "The Moment You Outsmart Reality, Everything Changes",
+      "published": "2026-11-09T20:18:09Z",
+      "age_days": 13.5,
+      "duration_min": 13.6,
+      "short": false,
+      "views": 20627,
+      "comments": 26,
+      "multiple": 1.04,
+      "views_per_day": 1528,
+      "url": "https://www.youtube.com/watch?v=NdtnqMM0_dI",
+      "subs_ratio": 0.06
+     }
+    ]
+   },
+   {
+    "handle": "@ApertureThinking",
+    "title": "Aperture",
+    "subs": 2720000,
+    "median_views": 168411.5,
+    "fresh": [
+     {
+      "id": "yI_kQ6BclUY",
+      "title": "The Theory of Consciousness That Claims Your Whole Life is a Dream",
+      "published": "2026-11-22T17:00:26Z",
+      "age_days": 0.7,
+      "duration_min": 34.5,
+      "short": false,
+      "views": 92995,
+      "comments": 171,
+      "multiple": 0.55,
+      "views_per_day": 132850,
+      "url": "https://www.youtube.com/watch?v=yI_kQ6BclUY",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "UQbb5igIzAw",
+      "title": "Everything We Don't Know About Free Will",
+      "published": "2026-11-19T06:50:24Z",
+      "age_days": 4.1,
+      "duration_min": 128.2,
+      "short": false,
+      "views": 99952,
+      "comments": 84,
+      "multiple": 0.59,
+      "views_per_day": 24379,
+      "url": "https://www.youtube.com/watch?v=UQbb5igIzAw",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "zomR1be6XcY",
+      "title": "The theory of Deja Vu that proves you can’t trust your memories",
+      "published": "2026-11-15T17:00:06Z",
+      "age_days": 7.7,
+      "duration_min": 33.2,
+      "short": false,
+      "views": 145149,
+      "comments": 208,
+      "multiple": 0.86,
+      "views_per_day": 18851,
+      "url": "https://www.youtube.com/watch?v=zomR1be6XcY",
+      "subs_ratio": 0.05
+     },
+     {
+      "id": "EbkmrTTAUtE",
+      "title": "Why You Can't Think Anymore",
+      "published": "2026-11-11T20:34:59Z",
+      "age_days": 11.5,
+      "duration_min": 85.0,
+      "short": false,
+      "views": 121436,
+      "comments": 144,
+      "multiple": 0.72,
+      "views_per_day": 10560,
+      "url": "https://www.youtube.com/watch?v=EbkmrTTAUtE",
+      "subs_ratio": 0.04
+     }
+    ]
+   },
+   {
+    "handle": "@TheGrowthParadoxYT",
+    "title": "The Growth Paradox",
+    "subs": 288000,
+    "median_views": 14062.5,
+    "fresh": [
+     {
+      "id": "9wprJ8Uje3M",
+      "title": "Make Your Life Mean Something",
+      "published": "2026-11-21T12:00:08Z",
+      "age_days": 1.9,
+      "duration_min": 34.9,
+      "short": false,
+      "views": 5958,
+      "comments": 15,
+      "multiple": 0.42,
+      "views_per_day": 3136,
+      "url": "https://www.youtube.com/watch?v=9wprJ8Uje3M",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "ppi9PYz9qkA",
+      "title": "A Man Must Have A Dream",
+      "published": "2026-11-19T12:00:22Z",
+      "age_days": 3.9,
+      "duration_min": 32.2,
+      "short": false,
+      "views": 7446,
+      "comments": 12,
+      "multiple": 0.53,
+      "views_per_day": 1909,
+      "url": "https://www.youtube.com/watch?v=ppi9PYz9qkA",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "EoXIi2sgvbE",
+      "title": "The Greatest Level a Human Can Reach",
+      "published": "2026-11-17T12:00:09Z",
+      "age_days": 5.9,
+      "duration_min": 37.2,
+      "short": false,
+      "views": 7330,
+      "comments": 12,
+      "multiple": 0.52,
+      "views_per_day": 1242,
+      "url": "https://www.youtube.com/watch?v=EoXIi2sgvbE",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "CHozkvfaTpA",
+      "title": "You Can't Live Like This Forever",
+      "published": "2026-11-15T12:00:30Z",
+      "age_days": 7.9,
+      "duration_min": 34.5,
+      "short": false,
+      "views": 11145,
+      "comments": 10,
+      "multiple": 0.79,
+      "views_per_day": 1411,
+      "url": "https://www.youtube.com/watch?v=CHozkvfaTpA",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "C0a-79gOCrU",
+      "title": "Why Not You?",
+      "published": "2026-11-13T12:00:23Z",
+      "age_days": 9.9,
+      "duration_min": 36.0,
+      "short": false,
+      "views": 9420,
+      "comments": 16,
+      "multiple": 0.67,
+      "views_per_day": 952,
+      "url": "https://www.youtube.com/watch?v=C0a-79gOCrU",
+      "subs_ratio": 0.03
+     },
+     {
+      "id": "rd7bl_5raAQ",
+      "title": "Disappear And Focus On Yourself",
+      "published": "2026-11-11T12:00:13Z",
+      "age_days": 11.9,
+      "duration_min": 35.2,
+      "short": false,
+      "views": 12716,
+      "comments": 22,
+      "multiple": 0.9,
+      "views_per_day": 1069,
+      "url": "https://www.youtube.com/watch?v=rd7bl_5raAQ",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "M0Sn9vhY5gY",
+      "title": "Be Obsessed With Your Vision",
+      "published": "2026-11-09T14:07:13Z",
+      "age_days": 13.8,
+      "duration_min": 35.4,
+      "short": false,
+      "views": 9345,
+      "comments": 15,
+      "multiple": 0.66,
+      "views_per_day": 677,
+      "url": "https://www.youtube.com/watch?v=M0Sn9vhY5gY",
+      "subs_ratio": 0.03
+     }
+    ]
+   },
+   {
+    "handle": "@Fireship",
+    "title": "Fireship",
+    "subs": 4340000,
+    "median_views": 1974494.5,
+    "fresh": [
+     {
+      "id": "rMaMe32qQkA",
+      "title": "If you’ve deployed anything since 2015, I have bad news...",
+      "published": "2026-11-20T19:49:02Z",
+      "age_days": 2.6,
+      "duration_min": 5.6,
+      "short": false,
+      "views": 1045039,
+      "comments": 693,
+      "multiple": 0.53,
+      "views_per_day": 401938,
+      "url": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+      "subs_ratio": 0.24
+     },
+     {
+      "id": "Qxor6jpfSiU",
+      "title": "The only software that didn’t break this week...",
+      "published": "2026-11-19T17:40:33Z",
+      "age_days": 3.6,
+      "duration_min": 5.6,
+      "short": false,
+      "views": 1043629,
+      "comments": 516,
+      "multiple": 0.53,
+      "views_per_day": 289897,
+      "url": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
+      "subs_ratio": 0.24
+     },
+     {
+      "id": "ytmawkPTP24",
+      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+      "published": "2026-11-16T20:18:59Z",
+      "age_days": 6.5,
+      "duration_min": 6.4,
+      "short": false,
+      "views": 2410928,
+      "comments": 1337,
+      "multiple": 1.22,
+      "views_per_day": 370912,
+      "url": "https://www.youtube.com/watch?v=ytmawkPTP24",
+      "subs_ratio": 0.56
+     },
+     {
+      "id": "SOwUWPtXQ9I",
+      "title": "Jensen Huang just pulled out of Nvidia...",
+      "published": "2026-11-12T21:17:10Z",
+      "age_days": 10.5,
+      "duration_min": 5.6,
+      "short": false,
+      "views": 2416840,
+      "comments": 2382,
+      "multiple": 1.22,
+      "views_per_day": 230175,
+      "url": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
+      "subs_ratio": 0.56
+     },
+     {
+      "id": "1FurWDiK9A4",
+      "title": "Did Anthropic just save its $1 trillion IPO?",
+      "published": "2026-11-10T18:19:55Z",
+      "age_days": 12.6,
+      "duration_min": 5.6,
+      "short": false,
+      "views": 1736243,
+      "comments": 1164,
+      "multiple": 0.88,
+      "views_per_day": 137797,
+      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+      "subs_ratio": 0.4
+     },
+     {
+      "id": "pf5tXJZM1Rw",
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "published": "2026-11-09T21:04:16Z",
+      "age_days": 13.5,
+      "duration_min": 6.5,
+      "short": false,
+      "views": 1940424,
+      "comments": 1775,
+      "multiple": 0.98,
+      "views_per_day": 143735,
+      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
+      "subs_ratio": 0.45
+     }
+    ]
+   },
+   {
+    "handle": "@_jared",
+    "title": "Jared Henderson",
+    "subs": 790000,
+    "median_views": 306358.5,
+    "fresh": []
+   },
+   {
+    "handle": "@killcornn",
+    "title": "killcorn",
+    "subs": 173,
+    "median_views": null,
+    "fresh": []
+   },
+   {
+    "handle": "@thegrimnetwork",
+    "title": "THE GRIM",
+    "subs": 1580000,
+    "median_views": 349833.5,
+    "fresh": [
+     {
+      "id": "gGi45OVy7CI",
+      "title": "Time is running too fast. And nobody is talking about it.",
+      "published": "2026-11-09T19:30:39Z",
+      "age_days": 13.6,
+      "duration_min": 6.4,
+      "short": false,
+      "views": 300650,
+      "comments": 558,
+      "multiple": 0.86,
+      "views_per_day": 22107,
+      "url": "https://www.youtube.com/watch?v=gGi45OVy7CI",
+      "subs_ratio": 0.19
+     }
+    ]
+   },
+   {
+    "handle": "@jeonxshook",
+    "title": "Fin",
+    "subs": 8580,
+    "median_views": 140697.5,
+    "fresh": []
+   },
+   {
+    "handle": "@Emanuelsonofjohn",
+    "title": "son0fjohn",
+    "subs": 29400,
+    "median_views": 2304.0,
+    "fresh": []
+   },
+   {
+    "handle": "@StudioPractice1",
+    "title": "Studio Practice",
+    "subs": 47200,
+    "median_views": 7357.0,
+    "fresh": [
+     {
+      "id": "IXoaixSfSd4",
+      "title": "Creative Failure and Risk - A Helpful Framework for The Artist",
+      "published": "2026-11-19T22:08:23Z",
+      "age_days": 3.5,
+      "duration_min": 8.6,
+      "short": false,
+      "views": 4814,
+      "comments": 8,
+      "multiple": 0.65,
+      "views_per_day": 1375,
+      "url": "https://www.youtube.com/watch?v=IXoaixSfSd4",
+      "subs_ratio": 0.1
+     }
+    ]
+   },
+   {
+    "handle": "@AngeloSomers",
+    "title": "Angelo",
+    "subs": 85800,
+    "median_views": 34655.5,
+    "fresh": []
+   },
+   {
+    "handle": "@TAEETIMEE",
+    "title": "TAEETIMEE",
+    "subs": 349000,
+    "median_views": null,
+    "fresh": []
+   },
+   {
+    "handle": "@gerbertjohnson",
+    "title": "Gerbert Johnson",
+    "subs": 401000,
+    "median_views": 371545.5,
+    "fresh": []
+   },
+   {
+    "handle": "@OzymandiasV2",
+    "title": "OzymandiasV2",
+    "subs": 39400,
+    "median_views": 15575.5,
+    "fresh": []
+   },
+   {
+    "handle": "@modernideastv",
+    "title": "Modern Ideas",
+    "subs": 324000,
+    "median_views": 155481,
+    "fresh": []
+   },
+   {
+    "handle": "@nathanieldrew",
+    "title": "Nathaniel Drew",
+    "subs": 1780000,
+    "median_views": 155676.0,
+    "fresh": []
+   },
+   {
+    "handle": "@The.AncientKing",
+    "title": "The Ancient King",
+    "subs": 17000,
+    "median_views": 1259.5,
+    "fresh": []
+   },
+   {
+    "handle": "@CoalHastings",
+    "title": "Coal Hastings",
+    "subs": 35500,
+    "median_views": 48181.0,
+    "fresh": [
+     {
+      "id": "-aiCxdJM-kw",
+      "title": "Yeah... no wonder gen z is creatively bankrupt.",
+      "published": "2026-11-18T17:00:24Z",
+      "age_days": 4.7,
+      "duration_min": 16.5,
+      "short": false,
+      "views": 26844,
+      "comments": 51,
+      "multiple": 0.56,
+      "views_per_day": 5711,
+      "url": "https://www.youtube.com/watch?v=-aiCxdJM-kw",
+      "subs_ratio": 0.76
+     },
+     {
+      "id": "-y8tCwDosqQ",
+      "title": "Yeah... no wonder gen z is obsessed with locking in.",
+      "published": "2026-11-13T17:00:09Z",
+      "age_days": 9.7,
+      "duration_min": 13.3,
+      "short": false,
+      "views": 302557,
+      "comments": 301,
+      "multiple": 6.28,
+      "views_per_day": 31191,
+      "url": "https://www.youtube.com/watch?v=-y8tCwDosqQ",
+      "subs_ratio": 8.52
+     }
+    ]
+   },
+   {
+    "handle": "@TyFrom99",
+    "title": "TyFrom99",
+    "subs": 120000,
+    "median_views": 872276,
+    "fresh": []
+   },
+   {
+    "handle": "@academyofideas",
+    "title": "Academy of Ideas",
+    "subs": 2030000,
+    "median_views": 81292.0,
+    "fresh": []
+   },
+   {
+    "handle": "@clarkelieson",
+    "title": "Clark Elieson",
+    "subs": 369000,
+    "median_views": 1503349.5,
+    "fresh": []
+   },
+   {
+    "handle": "@oddgog",
+    "title": "OddGog",
+    "subs": 27900,
+    "median_views": 7925,
+    "fresh": [
+     {
+      "id": "WvyN1KY5_aI",
+      "title": "The 100 year old theory behind Hollywood's new star",
+      "published": "2026-11-16T19:41:29Z",
+      "age_days": 6.6,
+      "duration_min": 11.6,
+      "short": false,
+      "views": 2442,
+      "comments": 10,
+      "multiple": 0.31,
+      "views_per_day": 370,
+      "url": "https://www.youtube.com/watch?v=WvyN1KY5_aI",
+      "subs_ratio": 0.09
+     }
+    ]
+   },
+   {
+    "handle": "@benhoerman",
+    "title": "Ben Hoerman",
+    "subs": 105000,
+    "median_views": 48834,
+    "fresh": []
+   },
+   {
+    "handle": "@Shawn.Grenier",
+    "title": "Shawn Grenier | The Canvas",
+    "subs": 580000,
+    "median_views": 25822.5,
+    "fresh": [
+     {
+      "id": "KujHoG5Bjng",
+      "title": "Violence | A Cinematic Deep Dive",
+      "published": "2026-11-20T18:57:37Z",
+      "age_days": 2.6,
+      "duration_min": 153.7,
+      "short": false,
+      "views": 24106,
+      "comments": 84,
+      "multiple": 0.93,
+      "views_per_day": 9272,
+      "url": "https://www.youtube.com/watch?v=KujHoG5Bjng",
+      "subs_ratio": 0.04
+     }
+    ]
+   },
+   {
+    "handle": "@BeyondBeing11",
+    "title": "BeyondBeing",
+    "subs": 114000,
+    "median_views": null,
+    "fresh": []
+   },
+   {
+    "handle": "@betterideas",
+    "title": "Better Ideas",
+    "subs": 3040000,
+    "median_views": 316254.0,
+    "fresh": []
+   },
+   {
+    "handle": "@JackDeyzan",
+    "title": "Jack Deyzan ",
+    "subs": 8990,
+    "median_views": 2086.5,
+    "fresh": [
+     {
+      "id": "nmm3I-aFbwg",
+      "title": "I Found a Secret AI Slop Predator Network on TikTok",
+      "published": "2026-11-17T17:44:32Z",
+      "age_days": 5.6,
+      "duration_min": 8.8,
+      "short": false,
+      "views": 206061,
+      "comments": 470,
+      "multiple": 98.76,
+      "views_per_day": 36797,
+      "url": "https://www.youtube.com/watch?v=nmm3I-aFbwg",
+      "subs_ratio": 22.92
+     }
+    ]
+   },
+   {
+    "handle": "@JamesJani",
+    "title": "James Jani",
+    "subs": 2220000,
+    "median_views": 1747191.5,
+    "fresh": []
+   },
+   {
+    "handle": "@Zendicay",
+    "title": "Zendicay",
+    "subs": 50000,
+    "median_views": 14505.0,
+    "fresh": []
+   },
+   {
+    "handle": "@Timofey41",
+    "title": "Timofey",
+    "subs": 188000,
+    "median_views": 1632.0,
+    "fresh": [
+     {
+      "id": "fo0UgwQzYO4",
+      "title": "if you're making $10k+/month but still working all day, watch this",
+      "published": "2026-11-21T03:42:11Z",
+      "age_days": 2.2,
+      "duration_min": 11.8,
+      "short": false,
+      "views": 990,
+      "comments": 4,
+      "multiple": 0.61,
+      "views_per_day": 450,
+      "url": "https://www.youtube.com/watch?v=fo0UgwQzYO4",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "keLn_L6Vw6g",
+      "title": "want to scale past $10k/month? stop working like this",
+      "published": "2026-11-19T04:24:21Z",
+      "age_days": 4.2,
+      "duration_min": 9.1,
+      "short": false,
+      "views": 1348,
+      "comments": 2,
+      "multiple": 0.83,
+      "views_per_day": 321,
+      "url": "https://www.youtube.com/watch?v=keLn_L6Vw6g",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "RihDL7ZvE5I",
+      "title": "watch 8 months of struggling to grow a business make sense in 26 minutes | coaching with timofey",
+      "published": "2026-11-17T20:24:54Z",
+      "age_days": 5.5,
+      "duration_min": 31.8,
+      "short": false,
+      "views": 985,
+      "comments": 4,
+      "multiple": 0.6,
+      "views_per_day": 179,
+      "url": "https://www.youtube.com/watch?v=RihDL7ZvE5I",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "XKzBnGDD0F0",
+      "title": "put your phone away and grow your business",
+      "published": "2026-11-15T02:43:15Z",
+      "age_days": 8.3,
+      "duration_min": 12.5,
+      "short": false,
+      "views": 2276,
+      "comments": 7,
+      "multiple": 1.39,
+      "views_per_day": 274,
+      "url": "https://www.youtube.com/watch?v=XKzBnGDD0F0",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "JT1WHzpgL_A",
+      "title": "i asked a founder his biggest regret. his answer changed how i see success",
+      "published": "2026-11-13T17:53:19Z",
+      "age_days": 9.6,
+      "duration_min": 4.4,
+      "short": false,
+      "views": 984,
+      "comments": 1,
+      "multiple": 0.6,
+      "views_per_day": 102,
+      "url": "https://www.youtube.com/watch?v=JT1WHzpgL_A",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "xrz61VO5C1c",
+      "title": "this video should be REQUIRED viewing for distracted business owners",
+      "published": "2026-11-12T02:31:44Z",
+      "age_days": 11.3,
+      "duration_min": 10.3,
+      "short": false,
+      "views": 1174,
+      "comments": 1,
+      "multiple": 0.72,
+      "views_per_day": 104,
+      "url": "https://www.youtube.com/watch?v=xrz61VO5C1c",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "K_uOSlgtsE4",
+      "title": "watch her discover why she can't focus on growing her business | coaching with timofey",
+      "published": "2026-11-11T03:32:50Z",
+      "age_days": 12.2,
+      "duration_min": 14.1,
+      "short": false,
+      "views": 1085,
+      "comments": 1,
+      "multiple": 0.66,
+      "views_per_day": 89,
+      "url": "https://www.youtube.com/watch?v=K_uOSlgtsE4",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "3vesRm16kh4",
+      "title": "how to scale your business without spending your life on screens",
+      "published": "2026-11-09T21:55:46Z",
+      "age_days": 13.5,
+      "duration_min": 10.6,
+      "short": false,
+      "views": 1049,
+      "comments": 2,
+      "multiple": 0.64,
+      "views_per_day": 78,
+      "url": "https://www.youtube.com/watch?v=3vesRm16kh4",
+      "subs_ratio": 0.01
+     }
+    ]
+   },
+   {
+    "handle": "@chulde",
+    "title": "chulde",
+    "subs": 70400,
+    "median_views": 185644.0,
+    "fresh": [
+     {
+      "id": "progsvBEvi4",
+      "title": "The Most FREAKY CEO Ever",
+      "published": "2026-11-23T00:15:03Z",
+      "age_days": 0.4,
+      "duration_min": 8.1,
+      "short": false,
+      "views": 3334,
+      "comments": 12,
+      "multiple": 0.02,
+      "views_per_day": 6668,
+      "url": "https://www.youtube.com/watch?v=progsvBEvi4",
+      "subs_ratio": 0.05
+     },
+     {
+      "id": "SMSzoaj9RlA",
+      "title": "School Bathrooms Are GENUINELY DISGUSTING",
+      "published": "2026-11-13T23:30:23Z",
+      "age_days": 9.4,
+      "duration_min": 6.6,
+      "short": false,
+      "views": 1580386,
+      "comments": 723,
+      "multiple": 8.51,
+      "views_per_day": 168126,
+      "url": "https://www.youtube.com/watch?v=SMSzoaj9RlA",
+      "subs_ratio": 22.45
+     }
+    ]
+   },
+   {
+    "handle": "@mattdavella",
+    "title": "Matt D'Avella",
+    "subs": 4060000,
+    "median_views": 603782.0,
+    "fresh": []
+   },
+   {
+    "handle": "@jarrettmoore6458",
+    "title": "Jarrett Moore",
+    "subs": 103000,
+    "median_views": 311476,
+    "fresh": []
+   },
+   {
+    "handle": "@FinalSomow",
+    "title": "Final Somow",
+    "subs": 69000,
+    "median_views": 30754,
+    "fresh": []
+   },
+   {
+    "handle": "@voidedthoughts",
+    "title": "Voided Thoughts",
+    "subs": 96700,
+    "median_views": 19850.0,
+    "fresh": [
+     {
+      "id": "fmuFM-rpDcs",
+      "title": "Is Hope Worth It?",
+      "published": "2026-11-17T13:11:42Z",
+      "age_days": 5.8,
+      "duration_min": 14.8,
+      "short": false,
+      "views": 23263,
+      "comments": 24,
+      "multiple": 1.17,
+      "views_per_day": 4011,
+      "url": "https://www.youtube.com/watch?v=fmuFM-rpDcs",
+      "subs_ratio": 0.24
+     }
+    ]
+   },
+   {
+    "handle": "@mikeyposada",
+    "title": "Mikey Posada",
+    "subs": 99400,
+    "median_views": 107126.5,
+    "fresh": []
+   },
+   {
+    "handle": "@Exurb1a",
+    "title": "exurb1a",
+    "subs": 2990000,
+    "median_views": 2088320.5,
+    "fresh": []
+   },
+   {
+    "handle": "@DamonCassidy",
+    "title": "Damon Cassidy",
+    "subs": 347000,
+    "median_views": 603093.0,
+    "fresh": [
+     {
+      "id": "OXwwYvoW9H4",
+      "title": "The AI Takeover Has Completely BACKFIRED",
+      "published": "2026-11-18T01:47:36Z",
+      "age_days": 5.3,
+      "duration_min": 22.6,
+      "short": false,
+      "views": 851374,
+      "comments": 3050,
+      "multiple": 1.41,
+      "views_per_day": 160637,
+      "url": "https://www.youtube.com/watch?v=OXwwYvoW9H4",
+      "subs_ratio": 2.45
+     },
+     {
+      "id": "oannlecEN7w",
+      "title": "McDonald's Has (Finally) Cooked Itself",
+      "published": "2026-11-12T01:00:22Z",
+      "age_days": 11.3,
+      "duration_min": 23.2,
+      "short": false,
+      "views": 333132,
+      "comments": 1771,
+      "multiple": 0.55,
+      "views_per_day": 29481,
+      "url": "https://www.youtube.com/watch?v=oannlecEN7w",
+      "subs_ratio": 0.96
+     }
+    ]
+   },
+   {
+    "handle": "@HorsesOnYT",
+    "title": "Horses ",
+    "subs": 1610000,
+    "median_views": 823791,
+    "fresh": []
+   },
+   {
+    "handle": "@acceptingtheuniverse",
+    "title": "Accepting the Universe",
+    "subs": 295000,
+    "median_views": 29303.0,
+    "fresh": [
+     {
+      "id": "y9EV1nRR7Go",
+      "title": "Be simple",
+      "published": "2026-11-18T17:20:59Z",
+      "age_days": 4.7,
+      "duration_min": 10.7,
+      "short": false,
+      "views": 27798,
+      "comments": 52,
+      "multiple": 0.95,
+      "views_per_day": 5914,
+      "url": "https://www.youtube.com/watch?v=y9EV1nRR7Go",
+      "subs_ratio": 0.09
+     },
+     {
+      "id": "JWnUOqsLPEM",
+      "title": "We feel sorry for others because we pity ourselves ",
+      "published": "2026-11-11T16:00:38Z",
+      "age_days": 11.7,
+      "duration_min": 7.6,
+      "short": false,
+      "views": 12907,
+      "comments": 59,
+      "multiple": 0.44,
+      "views_per_day": 1103,
+      "url": "https://www.youtube.com/watch?v=JWnUOqsLPEM",
+      "subs_ratio": 0.04
+     },
+     {
+      "id": "dUrjxMviFmM",
+      "title": "Erase the border between you and the universe",
+      "published": "2026-11-11T06:00:00Z",
+      "age_days": 12.1,
+      "duration_min": 156.6,
+      "short": false,
+      "views": 10955,
+      "comments": 19,
+      "multiple": 0.37,
+      "views_per_day": 905,
+      "url": "https://www.youtube.com/watch?v=dUrjxMviFmM",
+      "subs_ratio": 0.04
+     }
+    ]
+   },
+   {
+    "handle": "@BeyondMediaAnalysis1",
+    "title": "Beyond Media",
+    "subs": 52200,
+    "median_views": 36250.0,
+    "fresh": []
+   },
+   {
+    "handle": "@odysseas__",
+    "title": "Odysseas",
+    "subs": 438000,
+    "median_views": 112763.5,
+    "fresh": []
+   },
+   {
+    "handle": "@robmulder",
+    "title": "Rob Mulder",
+    "subs": 111000,
+    "median_views": 8299,
+    "fresh": [
+     {
+      "id": "mYBz14ENC20",
+      "title": "Are you a loser that plays GTA 6?",
+      "published": "2026-11-21T19:23:41Z",
+      "age_days": 1.6,
+      "duration_min": 12.2,
+      "short": false,
+      "views": 2680,
+      "comments": 25,
+      "multiple": 0.32,
+      "views_per_day": 1675,
+      "url": "https://www.youtube.com/watch?v=mYBz14ENC20",
+      "subs_ratio": 0.02
+     }
+    ]
+   },
+   {
+    "handle": "@lofi.cinema",
+    "title": "Lofi Cinema",
+    "subs": 171000,
+    "median_views": 102363,
+    "fresh": [
+     {
+      "id": "SrrcNi6X510",
+      "title": "Movies used to get this one thing right",
+      "published": "2026-11-22T18:01:43Z",
+      "age_days": 0.6,
+      "duration_min": 15.2,
+      "short": false,
+      "views": 8934,
+      "comments": 18,
+      "multiple": 0.09,
+      "views_per_day": 14890,
+      "url": "https://www.youtube.com/watch?v=SrrcNi6X510",
+      "subs_ratio": 0.05
+     }
+    ]
+   },
+   {
+    "handle": "@AndrewPaul1",
+    "title": "Andrew",
+    "subs": 315000,
+    "median_views": 76908.0,
+    "fresh": [
+     {
+      "id": "RNwucCAbc-Q",
+      "title": "Cinematic Color Grading Made Simple",
+      "published": "2026-11-20T15:00:03Z",
+      "age_days": 2.8,
+      "duration_min": 6.0,
+      "short": false,
+      "views": 52749,
+      "comments": 43,
+      "multiple": 0.69,
+      "views_per_day": 18839,
+      "url": "https://www.youtube.com/watch?v=RNwucCAbc-Q",
+      "subs_ratio": 0.17
+     },
+     {
+      "id": "itvhaoxtO8Y",
+      "title": "I Turned a Boring Room Into My Dream Studio",
+      "published": "2026-11-13T16:00:24Z",
+      "age_days": 9.7,
+      "duration_min": 7.9,
+      "short": false,
+      "views": 155269,
+      "comments": 188,
+      "multiple": 2.02,
+      "views_per_day": 16007,
+      "url": "https://www.youtube.com/watch?v=itvhaoxtO8Y",
+      "subs_ratio": 0.49
+     }
+    ]
+   },
+   {
+    "handle": "@JakPiggott",
+    "title": "Jak Piggott",
+    "subs": 2160000,
+    "median_views": 303894.5,
+    "fresh": []
+   },
+   {
+    "handle": "@malikpeace_",
+    "title": "Malik Peace",
+    "subs": 68600,
+    "median_views": 12432.0,
+    "fresh": []
+   },
+   {
+    "handle": "@TheMarketExit",
+    "title": "The Market Exit",
+    "subs": 197000,
+    "median_views": 139666.0,
+    "fresh": [
+     {
+      "id": "qlU5MUK63jA",
+      "title": "The intelligence myth",
+      "published": "2026-11-16T11:37:45Z",
+      "age_days": 6.9,
+      "duration_min": 21.4,
+      "short": false,
+      "views": 71756,
+      "comments": 459,
+      "multiple": 0.51,
+      "views_per_day": 10399,
+      "url": "https://www.youtube.com/watch?v=qlU5MUK63jA",
+      "subs_ratio": 0.36
+     }
+    ]
+   },
+   {
+    "handle": "@shotbywang",
+    "title": "eyes of leo",
+    "subs": 66500,
+    "median_views": 5271,
+    "fresh": []
+   },
+   {
+    "handle": "@Queen3369",
+    "title": "Queen",
+    "subs": 247000,
+    "median_views": 84417.0,
+    "fresh": [
+     {
+      "id": "xnw-UThZqNs",
+      "title": "The Psychology of Disability",
+      "published": "2026-11-10T21:03:12Z",
+      "age_days": 12.5,
+      "duration_min": 57.0,
+      "short": false,
+      "views": 12546,
+      "comments": 44,
+      "multiple": 0.15,
+      "views_per_day": 1004,
+      "url": "https://www.youtube.com/watch?v=xnw-UThZqNs",
+      "subs_ratio": 0.05
+     }
+    ]
+   },
+   {
+    "handle": "@IAmMarkManson",
+    "title": "Mark Manson",
+    "subs": 3220000,
+    "median_views": 157955,
+    "fresh": [
+     {
+      "id": "U_p0x0IG-hk",
+      "title": "Psychology of People Who Cut Their Family Off",
+      "published": "2026-11-22T16:02:30Z",
+      "age_days": 0.7,
+      "duration_min": 18.6,
+      "short": false,
+      "views": 63308,
+      "comments": 314,
+      "multiple": 0.4,
+      "views_per_day": 90440,
+      "url": "https://www.youtube.com/watch?v=U_p0x0IG-hk",
+      "subs_ratio": 0.02
+     },
+     {
+      "id": "jzFHkViEOEU",
+      "title": "Explaining Why GTA is Great for Your Brain (while playing it)",
+      "published": "2026-11-19T21:45:01Z",
+      "age_days": 3.5,
+      "duration_min": 20.6,
+      "short": false,
+      "views": 180065,
+      "comments": 476,
+      "multiple": 1.14,
+      "views_per_day": 51447,
+      "url": "https://www.youtube.com/watch?v=jzFHkViEOEU",
+      "subs_ratio": 0.06
+     },
+     {
+      "id": "6pwPQ4DGNYk",
+      "title": "The Dark Psychology Tricks Used on You Every Day",
+      "published": "2026-11-18T09:00:18Z",
+      "age_days": 5.0,
+      "duration_min": 60.2,
+      "short": false,
+      "views": 41416,
+      "comments": 36,
+      "multiple": 0.26,
+      "views_per_day": 8283,
+      "url": "https://www.youtube.com/watch?v=6pwPQ4DGNYk",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "9WAtNWgc9Cc",
+      "title": "Why Life Speeds Up as You Get Older",
+      "published": "2026-11-15T15:30:05Z",
+      "age_days": 7.7,
+      "duration_min": 13.6,
+      "short": false,
+      "views": 349874,
+      "comments": 306,
+      "multiple": 2.22,
+      "views_per_day": 45438,
+      "url": "https://www.youtube.com/watch?v=9WAtNWgc9Cc",
+      "subs_ratio": 0.11
+     },
+     {
+      "id": "5RV2apS4g4A",
+      "title": "The One Question That Exposes Manipulation",
+      "published": "2026-11-11T09:00:28Z",
+      "age_days": 12.0,
+      "duration_min": 72.8,
+      "short": false,
+      "views": 32422,
+      "comments": 51,
+      "multiple": 0.21,
+      "views_per_day": 2702,
+      "url": "https://www.youtube.com/watch?v=5RV2apS4g4A",
+      "subs_ratio": 0.01
+     }
+    ]
+   },
+   {
+    "handle": "@tau__ross",
+    "title": "Ross",
+    "subs": 60400,
+    "median_views": 16341.0,
+    "fresh": [
+     {
+      "id": "vbZT_1SUeK8",
+      "title": "geek 4 greek",
+      "published": "2026-11-18T19:39:01Z",
+      "age_days": 4.6,
+      "duration_min": 58.6,
+      "short": false,
+      "views": 22151,
+      "comments": 19,
+      "multiple": 1.36,
+      "views_per_day": 4815,
+      "url": "https://www.youtube.com/watch?v=vbZT_1SUeK8",
+      "subs_ratio": 0.37
+     }
+    ]
+   },
+   {
+    "handle": "@blankrascal",
+    "title": "Blank Rascal",
+    "subs": 92300,
+    "median_views": 39562.5,
+    "fresh": []
+   },
+   {
+    "handle": "@riskambition",
+    "title": "riskambition",
+    "subs": 64200,
+    "median_views": 6388.0,
+    "fresh": [
+     {
+      "id": "v3imOmKijpU",
+      "title": "how to reach greatness (even if you're ordinary).",
+      "published": "2026-11-10T14:00:02Z",
+      "age_days": 12.8,
+      "duration_min": 10.7,
+      "short": false,
+      "views": 6718,
+      "comments": 6,
+      "multiple": 1.05,
+      "views_per_day": 525,
+      "url": "https://www.youtube.com/watch?v=v3imOmKijpU",
+      "subs_ratio": 0.1
+     }
+    ]
+   },
+   {
+    "handle": "@julestheking",
+    "title": "Jules",
+    "subs": 48900,
+    "median_views": 301837,
+    "fresh": []
+   },
+   {
+    "handle": "@tysonliberto",
+    "title": "Tyson Liberto",
+    "subs": 358000,
+    "median_views": 38570.5,
+    "fresh": [
+     {
+      "id": "uWJsr11U6tU",
+      "title": "‘Macro-scale’ thinking transformed my life.",
+      "published": "2026-11-17T17:00:23Z",
+      "age_days": 5.7,
+      "duration_min": 15.3,
+      "short": false,
+      "views": 13458,
+      "comments": 36,
+      "multiple": 0.35,
+      "views_per_day": 2361,
+      "url": "https://www.youtube.com/watch?v=uWJsr11U6tU",
+      "subs_ratio": 0.04
+     }
+    ]
+   },
+   {
+    "handle": "@byjeffreysun",
+    "title": "Jeffrey Sun",
+    "subs": 44700,
+    "median_views": 17964.0,
+    "fresh": []
+   },
+   {
+    "handle": "@struthless",
+    "title": "struthless",
+    "subs": 1230000,
+    "median_views": 154126.0,
+    "fresh": [
+     {
+      "id": "1Yews2s3cZo",
+      "title": "They tried to bury this story... so I dug it back up",
+      "published": "2026-11-16T16:47:50Z",
+      "age_days": 6.7,
+      "duration_min": 31.0,
+      "short": false,
+      "views": 133754,
+      "comments": 559,
+      "multiple": 0.87,
+      "views_per_day": 19963,
+      "url": "https://www.youtube.com/watch?v=1Yews2s3cZo",
+      "subs_ratio": 0.11
+     }
+    ]
+   },
+   {
+    "handle": "@PursuitofWonder",
+    "title": "Pursuit of Wonder",
+    "subs": 3520000,
+    "median_views": 301587.5,
+    "fresh": [
+     {
+      "id": "sK79oJtZAFs",
+      "title": "It Begins: A Human Brain Was Put on a Computer, and It’s Suffering",
+      "published": "2026-11-10T17:04:34Z",
+      "age_days": 12.7,
+      "duration_min": 25.1,
+      "short": false,
+      "views": 1648867,
+      "comments": 3445,
+      "multiple": 5.47,
+      "views_per_day": 129832,
+      "url": "https://www.youtube.com/watch?v=sK79oJtZAFs",
+      "subs_ratio": 0.47
+     }
+    ]
+   },
+   {
+    "handle": "@unsolicitedadvice9198",
+    "title": "Unsolicited advice",
+    "subs": 1000000,
+    "median_views": 129796.5,
+    "fresh": [
+     {
+      "id": "-3F9uZEDWUA",
+      "title": "\"Jordan Peterson is Wrong about The Meaning Crisis\" | James Croft",
+      "published": "2026-11-18T17:00:00Z",
+      "age_days": 4.7,
+      "duration_min": 114.9,
+      "short": false,
+      "views": 53730,
+      "comments": 391,
+      "multiple": 0.41,
+      "views_per_day": 11432,
+      "url": "https://www.youtube.com/watch?v=-3F9uZEDWUA",
+      "subs_ratio": 0.05
+     }
+    ]
+   },
+   {
+    "handle": "@hamzashaabann",
+    "title": "Hamza Shaaban",
+    "subs": 7180,
+    "median_views": null,
+    "fresh": [
+     {
+      "id": "0RjRctRbd-g",
+      "title": "how virality ruined my life.",
+      "published": "2026-11-17T16:02:03Z",
+      "age_days": 5.7,
+      "duration_min": 4.5,
+      "short": false,
+      "views": 225,
+      "comments": 3,
+      "multiple": null,
+      "views_per_day": 39,
+      "url": "https://www.youtube.com/watch?v=0RjRctRbd-g",
+      "subs_ratio": 0.03
+     }
+    ]
+   },
+   {
+    "handle": "@ImDanjo",
+    "title": "imdanjo",
+    "subs": 58100,
+    "median_views": 32315.0,
+    "fresh": [
+     {
+      "id": "4MGC910FWtU",
+      "title": "The Pursuit of Strength",
+      "published": "2026-11-20T07:31:42Z",
+      "age_days": 3.1,
+      "duration_min": 14.2,
+      "short": false,
+      "views": 17775,
+      "comments": 59,
+      "multiple": 0.55,
+      "views_per_day": 5734,
+      "url": "https://www.youtube.com/watch?v=4MGC910FWtU",
+      "subs_ratio": 0.31
+     }
+    ]
+   },
+   {
+    "handle": "@Ronxhall",
+    "title": "ronxhall",
+    "subs": 91200,
+    "median_views": 2367.5,
+    "fresh": []
+   },
+   {
+    "handle": "@JakeFrew",
+    "title": "Jake Frew",
+    "subs": 355000,
+    "median_views": 51984.5,
+    "fresh": []
+   },
+   {
+    "handle": "@Thynksee",
+    "title": "Thynksee",
+    "subs": 139000,
+    "median_views": 1438.5,
+    "fresh": [
+     {
+      "id": "OK9i9RZUI0Y",
+      "title": "10 Signs a Pleasure Is Secretly Making You Weaker – Epicurus",
+      "published": "2026-11-15T13:17:35Z",
+      "age_days": 7.8,
+      "duration_min": 22.4,
+      "short": false,
+      "views": 1186,
+      "comments": 0,
+      "multiple": 0.82,
+      "views_per_day": 152,
+      "url": "https://www.youtube.com/watch?v=OK9i9RZUI0Y",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "3YlrWWVV9oI",
+      "title": "You’ll Stop Overthinking After This – Seneca",
+      "published": "2026-11-12T14:57:16Z",
+      "age_days": 10.8,
+      "duration_min": 22.4,
+      "short": false,
+      "views": 1202,
+      "comments": 2,
+      "multiple": 0.84,
+      "views_per_day": 111,
+      "url": "https://www.youtube.com/watch?v=3YlrWWVV9oI",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "qaXDTvsm1WQ",
+      "title": "Machiavelli Exposed How People Judge You in Seconds",
+      "published": "2026-11-11T13:31:11Z",
+      "age_days": 11.8,
+      "duration_min": 21.7,
+      "short": false,
+      "views": 1091,
+      "comments": 1,
+      "multiple": 0.76,
+      "views_per_day": 92,
+      "url": "https://www.youtube.com/watch?v=qaXDTvsm1WQ",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "7lGzBBMMCZk",
+      "title": "How to Kill Any Urge Before It Grows – Epictetus",
+      "published": "2026-11-10T12:47:27Z",
+      "age_days": 12.8,
+      "duration_min": 23.7,
+      "short": false,
+      "views": 891,
+      "comments": 4,
+      "multiple": 0.62,
+      "views_per_day": 70,
+      "url": "https://www.youtube.com/watch?v=7lGzBBMMCZk",
+      "subs_ratio": 0.01
+     },
+     {
+      "id": "rgflGXTQxQ0",
+      "title": "After This, No One Can Lie to You Again – Freud",
+      "published": "2026-11-09T12:34:26Z",
+      "age_days": 13.9,
+      "duration_min": 24.1,
+      "short": false,
+      "views": 1132,
+      "comments": 2,
+      "multiple": 0.79,
+      "views_per_day": 81,
+      "url": "https://www.youtube.com/watch?v=rgflGXTQxQ0",
+      "subs_ratio": 0.01
+     }
+    ]
+   },
+   {
+    "handle": "@AskShimon",
+    "title": "Shimon Davis",
+    "subs": 790000,
+    "median_views": 23680.0,
+    "fresh": [
+     {
+      "id": "b-V0GGmGY1E",
+      "title": "You're Not in Love. You're Obsessed.",
+      "published": "2026-11-12T23:41:37Z",
+      "age_days": 10.4,
+      "duration_min": 24.3,
+      "short": false,
+      "views": 19816,
+      "comments": 35,
+      "multiple": 0.84,
+      "views_per_day": 1905,
+      "url": "https://www.youtube.com/watch?v=b-V0GGmGY1E",
+      "subs_ratio": 0.03
+     }
+    ]
+   },
+   {
+    "handle": "@kenny.bender",
+    "title": "Kenny Bender",
+    "subs": 246000,
+    "median_views": 21878.5,
+    "fresh": []
+   },
+   {
+    "handle": "@DanZakaria",
+    "title": "Dan Zakaria",
+    "subs": 179000,
+    "median_views": 32349.5,
+    "fresh": [
+     {
+      "id": "0zRzBJDSC-U",
+      "title": "1,000 Hours of Self-Image Rewiring in 16 minutes",
+      "published": "2026-11-17T14:37:25Z",
+      "age_days": 5.8,
+      "duration_min": 16.5,
+      "short": false,
+      "views": 29174,
+      "comments": 20,
+      "multiple": 0.9,
+      "views_per_day": 5030,
+      "url": "https://www.youtube.com/watch?v=0zRzBJDSC-U",
+      "subs_ratio": 0.16
+     },
+     {
+      "id": "e6BlLwi88QU",
+      "title": "Your life won’t change until you fix your identity (here’s how)",
+      "published": "2026-11-12T19:49:09Z",
+      "age_days": 10.6,
+      "duration_min": 5.0,
+      "short": false,
+      "views": 12221,
+      "comments": 17,
+      "multiple": 0.38,
+      "views_per_day": 1153,
+      "url": "https://www.youtube.com/watch?v=e6BlLwi88QU",
+      "subs_ratio": 0.07
+     },
+     {
+      "id": "BsuUULT6hlg",
+      "title": "Go Ghost: How to Level Up Your Life in Silence *EVERYTHING YOU NEED TO KNOW*",
+      "published": "2026-11-09T18:20:09Z",
+      "age_days": 13.6,
+      "duration_min": 13.3,
+      "short": false,
+      "views": 108034,
+      "comments": 39,
+      "multiple": 3.34,
+      "views_per_day": 7944,
+      "url": "https://www.youtube.com/watch?v=BsuUULT6hlg",
+      "subs_ratio": 0.6
+     }
+    ]
+   },
+   {
+    "handle": "@hbomberguy",
+    "title": "hbomberguy",
+    "subs": 1880000,
+    "median_views": 2801029.5,
+    "fresh": []
+   },
+   {
+    "handle": "@Firstatlas",
+    "title": "Atlas",
+    "subs": 49800,
+    "median_views": 5579.0,
+    "fresh": []
+   },
+   {
+    "handle": "@InnuendoStudios",
+    "title": "Innuendo Studios",
+    "subs": 545000,
+    "median_views": 267659.5,
+    "fresh": []
+   },
+   {
+    "handle": "@TheTemporalNomad",
+    "title": "The Temporal Nomad",
+    "subs": 101000,
+    "median_views": 24754.0,
+    "fresh": [
+     {
+      "id": "bl7uWsn6wuc",
+      "title": "The Most Important Skill a Man Can Develop (According to Seneca)",
+      "published": "2026-11-16T09:59:34Z",
+      "age_days": 7.0,
+      "duration_min": 18.9,
+      "short": false,
+      "views": 59776,
+      "comments": 39,
+      "multiple": 2.41,
+      "views_per_day": 8539,
+      "url": "https://www.youtube.com/watch?v=bl7uWsn6wuc",
+      "subs_ratio": 0.59
+     },
+     {
+      "id": "A_EuRv2R7tE",
+      "title": "How to Stop Being Manipulated and Start Thinking for Yourself (George Orwell’s Lesson)",
+      "published": "2026-11-09T10:06:03Z",
+      "age_days": 14.0,
+      "duration_min": 53.4,
+      "short": false,
+      "views": 14876,
+      "comments": 18,
+      "multiple": 0.6,
+      "views_per_day": 1063,
+      "url": "https://www.youtube.com/watch?v=A_EuRv2R7tE",
+      "subs_ratio": 0.15
+     }
+    ]
+   }
+  ],
+  "errors": []
+ },
+ "reddit": {
+  "top": [],
+  "all_count": 0,
+  "errors": [
+   "GenZ: HTTP Error 403: Blocked / rss: HTTP Error 404: Not Found",
+   "Zoomers: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "lonely: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "MaleLoneliness: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "ForeverAlone: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "dating_advice: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "datingoverthirty: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "Tinder: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "AskMen: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "AskWomen: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "PurplePillDebate: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "looksmaxxing: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "selfimprovement: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "getdisciplined: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "nosurf: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "NoFap: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "pornfree: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "StopGaming: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "decidingtobebetter: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "antiwork: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "WorkReform: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "overemployed: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "hikikomori: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "NEET: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "OutOfTheLoop: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "InternetCulture: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "TikTokCringe: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "philosophy: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "Existentialism: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "aiwars: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "ChatGPT: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "singularity: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "China_irl: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "japanlife: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests",
+   "korea: HTTP Error 403: Blocked / rss: HTTP Error 429: Too Many Requests"
+  ]
+ },
+ "essays": {
+  "items": [
+   {
+    "feed": "https://www.421.news/en/rss",
+    "title": "Dungeons & Dragons: The Art of Making Up Stories with Friends",
+    "url": "https://www.421.news/en/dungeons-dragons-roleplay/",
+    "date": "2026-11-22T11:01:20+00:00",
+    "summary": "Telling stories out loud and rolling dice. The magic of D&D, the role-playing game that keeps friendships alive.",
+    "thumb": "data/thumbs/essay-https-www-421-news-en-dungeons-dragons-roleplay.jpg"
+   },
+   {
+    "feed": "https://www.421.news/en/rss",
+    "title": "The Weird Western: Mexica Gods and Spanish Vampires",
+    "url": "https://www.421.news/en/weird-western-en/",
+    "date": "2026-11-21T11:02:14+00:00",
+    "summary": "From Howard's pulp vampire to Ana Paula Maia's sertão: how the frontier horror of the weird western was built.",
+    "thumb": "data/thumbs/essay-https-www-421-news-en-weird-western-en.png"
+   },
+   {
+    "feed": "https://www.421.news/en/rss",
+    "title": "PROMO X CIERRE: Foam rubber puppets, boom bap and '90s Argentine-ness",
+    "url": "https://www.421.news/en/promo-x-cierre-rap-band/",
+    "date": "2026-11-20T17:02:48+00:00",
+    "summary": "Why PROMO X CIERRE is the rap band of the moment.",
+    "thumb": "data/thumbs/essay-https-www-421-news-en-promo-x-cierre-rap-band.png"
+   },
+   {
+    "feed": "https://www.theintrinsicperspective.com/feed",
+    "title": "On the day the Riemann hypothesis fell to AI, I took my son for a walk",
+    "url": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+    "date": "2026-11-21T14:51:53+00:00",
+    "summary": "He&#8217;d been a tad sick, feverish the night before, with frenetic dreams about huge spiders. But he was already bouncing back with color in his cheeks. The perfect afternoon weather helped. Strange fall we&#8217;ve been having, isn&#8217;t it? The days just seem warmer and warmer.",
+    "thumb": "data/thumbs/essay-intrinsicperspective-com-p-on-the-day-the-riemann-hypothesis.jpg"
+   },
+   {
+    "feed": "https://www.honest-broker.com/feed",
+    "title": "Nine Lessons Hollywood Can Learn from Studio Ghibli",
+    "url": "https://www.honest-broker.com/p/nine-lessons-hollywood-can-learn",
+    "date": "2026-11-21T18:54:58+00:00",
+    "summary": "I wait until late at night when everybody else is asleep. And then I pursue my secret pastime....",
+    "thumb": "data/thumbs/essay-tps-www-honest-broker-com-p-nine-lessons-hollywood-can-learn.jpg"
+   },
+   {
+    "feed": "https://aeon.co/feed.rss",
+    "title": "My grandmother was a seal",
+    "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+    "date": "2026-11-20T11:00:00+00:00",
+    "summary": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature   - by Jordan Lee Borgman    Read on Aeon",
+    "thumb": "data/thumbs/essay-aeon-co-essays-do-you-have-a-selkie-or-a-seal-in-the-family.jpg"
+   },
+   {
+    "feed": "https://psyche.co/feed",
+    "title": "The end of Xanadu",
+    "url": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+    "date": "2026-11-20T11:00:00+00:00",
+    "summary": "The house my father built taught me to expect disaster. Seeing it come down was a release   - by Henrick Karoliszyn    Read on Psyche",
+    "thumb": "data/thumbs/essay-the-house-my-father-built-was-resilient-and-rickety-like-him.jpg"
+   },
+   {
+    "feed": "https://www.noemamag.com/feed/",
+    "title": "The Shenzhen Summit Supplants Yalta",
+    "url": "https://www.noemamag.com/the-shenzhen-summit-supplants-yalta",
+    "date": "2026-11-20T15:51:40+00:00",
+    "summary": "The post  The Shenzhen Summit Supplants Yalta  appeared first on  NOEMA .",
+    "thumb": "data/thumbs/essay-https-www-noemamag-com-the-shenzhen-summit-supplants-yalta.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "Andy Burnham’s EU delusion",
+    "url": "https://unherd.com/2026/11/andy-burnhams-rejoin-delusion/?edition=us",
+    "date": "2026-11-23T00:03:54+00:00",
+    "summary": "Britain must resist Europe’s death spiral",
+    "thumb": "data/thumbs/essay-unherd-com-2026-11-andy-burnhams-rejoin-delusion-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "The Mizrahis will own Israel",
+    "url": "https://unherd.com/2026/11/the-mizrahis-will-inherit-israel/?edition=us",
+    "date": "2026-11-23T00:02:11+00:00",
+    "summary": "The once-alienated Jews could have their first PM",
+    "thumb": "data/thumbs/essay-herd-com-2026-11-the-mizrahis-will-inherit-israel-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "Why Europe is bunkering down",
+    "url": "https://unherd.com/2026/11/why-europe-is-bunkering-down/?edition=us",
+    "date": "2026-11-23T00:00:40+00:00",
+    "summary": "Bomb shelters are hiding in plain sight",
+    "thumb": "data/thumbs/essay-s-unherd-com-2026-11-why-europe-is-bunkering-down-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "The promise of ‘TrumpCare’",
+    "url": "https://unherd.com/2026/11/the-promise-of-trumpcare/?edition=us",
+    "date": "2026-11-23T00:00:11+00:00",
+    "summary": "Abdul’s proposal could salvage the president’s legacy",
+    "thumb": "data/thumbs/essay-https-unherd-com-2026-11-the-promise-of-trumpcare-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "The first hockey-sex classic",
+    "url": "https://unherd.com/2026/11/the-first-hockey-sex-classic/?edition=us",
+    "date": "2026-11-21T00:06:04+00:00",
+    "summary": "Don DeLillo anticipated ‘Heated Rivalry’",
+    "thumb": "data/thumbs/essay-s-unherd-com-2026-11-the-first-hockey-sex-classic-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "Why tech bros disdain humanity",
+    "url": "https://unherd.com/2026/11/why-tech-bros-disdain-humanity/?edition=us",
+    "date": "2026-11-21T00:05:52+00:00",
+    "summary": "The Left are right to fear AI",
+    "thumb": "data/thumbs/essay-unherd-com-2026-11-why-tech-bros-disdain-humanity-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "AI will create a new mental elite",
+    "url": "https://unherd.com/2026/11/ai-will-create-a-new-mental-elite/?edition=us",
+    "date": "2026-11-21T00:04:15+00:00",
+    "summary": "And that’s a good thing",
+    "thumb": "data/thumbs/essay-erd-com-2026-11-ai-will-create-a-new-mental-elite-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "God save us from King William",
+    "url": "https://unherd.com/2026/11/god-save-us-from-king-william/?edition=us",
+    "date": "2026-11-21T00:03:09+00:00",
+    "summary": "He’s not weird enough for the job",
+    "thumb": "data/thumbs/essay-unherd-com-2026-11-god-save-us-from-king-william-edition-us.jpg"
+   },
+   {
+    "feed": "https://unherd.com/feed/",
+    "title": "Grand Theft Autopen",
+    "url": "https://unherd.com/2026/11/grand-theft-autopen/?edition=us",
+    "date": "2026-11-21T00:02:54+00:00",
+    "summary": "Joe Biden’s memoir is all excuses",
+    "thumb": "data/thumbs/essay-https-unherd-com-2026-11-grand-theft-autopen-edition-us.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The English Village Declaring ‘Independence’ over the Migrant Crisis",
+    "url": "https://www.thefp.com/p/the-english-village-declaring-independence-uk-immigration",
+    "date": "2026-11-23T00:37:35+00:00",
+    "summary": "In rural Suffolk on Saturday, residents staged a symbolic independence referendum to protest plans to house 931 male asylum seekers at a former military base. I went there to find out why, writes Inaya Iman.",
+    "thumb": "data/thumbs/essay-p-the-english-village-declaring-independence-uk-immigration.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The End of Math?",
+    "url": "https://www.thefp.com/p/the-end-of-math-artificial-intelligence",
+    "date": "2026-11-22T23:11:41+00:00",
+    "summary": "AI just solved the most famous problem in modern math. Where does that leave mathematicians like me?",
+    "thumb": "data/thumbs/essay-ttps-www-thefp-com-p-the-end-of-math-artificial-intelligence.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "Thanksgiving Dinner Might Be Killing You",
+    "url": "https://www.thefp.com/p/thanksgiving-dinner-might-be-killing-family-happy-politics",
+    "date": "2026-11-22T21:34:36+00:00",
+    "summary": "Your difficult relatives, friends, and colleagues may be doing more than getting on your nerves, writes Arthur Brooks. They could be making you older. So should you cut them off?",
+    "thumb": "data/thumbs/essay-p-thanksgiving-dinner-might-be-killing-family-happy-politics.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "I Posed for Richard Avedon",
+    "url": "https://www.thefp.com/p/i-posed-for-richard-avedon",
+    "date": "2026-11-22T20:27:11+00:00",
+    "summary": "The legendary photographer could see who I was underneath the mess. I cried watching the new documentary about him, writes Nancy Rommelmann.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-i-posed-for-richard-avedon.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The 90-Second Shows Addicting America. Plus. . .",
+    "url": "https://www.thefp.com/p/the-90-second-shows-addicting-america-microdramas-gta",
+    "date": "2026-11-21T11:03:30+00:00",
+    "summary": "In today's Weekend Press: Kat Rosenfield on the strange rise of microdramas. Two Drinks with America&#8217;s shortest-serving press secretary. River Page investigates: Is &#8216;GTA&#8217; &#8216;feminist propaganda?&#8217; Subscribers share their favorite recipes. And more!",
+    "thumb": "data/thumbs/essay-com-p-the-90-second-shows-addicting-america-microdramas-gta.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The Lost Art of Reading a Cookbook",
+    "url": "https://www.thefp.com/p/the-lost-art-of-reading-a-cookbook",
+    "date": "2026-11-20T22:36:46+00:00",
+    "summary": "&#8220;ChatGPT could combine everything I&#8217;ve learned from cookbooks in four seconds. But then I&#8217;d have missed the pleasure of discovering it all myself,&#8221; writes Dan Ahdoot.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-the-lost-art-of-reading-a-cookbook.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "Two Drinks with . . . Our Shortest-Serving Press Secretary",
+    "url": "https://www.thefp.com/p/two-drinks-with-our-shortest-serving",
+    "date": "2026-11-20T22:30:14+00:00",
+    "summary": "Katie Zacharia lasted five days in the role. In her room at the Trump hotel in Manhattan, she says: &#8216;I never had to lobby anyone to get the job that I got.&#8217;",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-two-drinks-with-our-shortest-serving.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "Don’t Be Mad at ‘GTA VI’",
+    "url": "https://www.thefp.com/p/gta-vi-lucia-jason-river-page-florida",
+    "date": "2026-11-20T21:49:45+00:00",
+    "summary": "The best-selling game isn&#8217;t a &#8216;cuck simulator&#8217;&#8212;it&#8217;s a satire of people who talk like that&#8212;and the rest of our beautiful mess of a country, writes River Page.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-gta-vi-lucia-jason-river-page-florida.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The 90-Second Shows Addicting America",
+    "url": "https://www.thefp.com/p/the-90-second-shows-addicting-america",
+    "date": "2026-11-20T21:13:53+00:00",
+    "summary": "These viral videos have no world-building, character development, or story. Kat Rosenfield explains why we can&#8217;t get enough of them.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-the-90-second-shows-addicting-america.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "Matt Taibbi: The 2028 Race Has Already Begun. Plus…",
+    "url": "https://www.thefp.com/p/matt-taibbi-the-2028-race-has-already-begun-matt-taibbi",
+    "date": "2026-11-20T17:01:13+00:00",
+    "summary": "In today&#8217;s Front Page, Matt Taibbi on the start of the 2028 race. A federal judge on the redefinition of genocide. How the right made itself uncool again. And more.",
+    "thumb": "data/thumbs/essay-om-p-matt-taibbi-the-2028-race-has-already-begun-matt-taibbi.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "How the Campaign Against Israel Rewrote the Law of Genocide",
+    "url": "https://www.thefp.com/p/icj-genocide-israel-myanmar",
+    "date": "2026-11-20T16:56:49+00:00",
+    "summary": "Genocide is the crime of crimes, and it requires a heightened level of proof. In its Myanmar ruling, the ICJ abandoned that standard, writes Roy K. Altman.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-icj-genocide-israel-myanmar.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "Matt Taibbi: Welcome to the 2028 Democratic Primary",
+    "url": "https://www.thefp.com/p/-taibbi-2028-democrat-president",
+    "date": "2026-11-20T16:35:55+00:00",
+    "summary": "The presidential campaign starts earlier every cycle. Matt Taibbi, our new reporter-at-large, hits the road to handicap the race.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-taibbi-2028-democrat-president.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "TGIF: Consensual Non-Consent",
+    "url": "https://www.thefp.com/p/tgif-consensual-non-consent-news-donald-trump-tech-culture",
+    "date": "2026-11-20T11:01:10+00:00",
+    "summary": "Today in TGIF: Kim Jong Un watches his daughter ski, SpaceX safely recovers a rocket from space, the CEO of a homeless charity tries to flee on his yacht, what's going on with all these AI hacks, and more!",
+    "thumb": "data/thumbs/essay-p-tgif-consensual-non-consent-news-donald-trump-tech-culture.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "What Reagan Could Teach Trump",
+    "url": "https://www.thefp.com/p/what-reagan-could-teach-trump",
+    "date": "2026-11-20T10:02:05+00:00",
+    "summary": "Roger Zakheim, director of the Ronald Reagan Institute, joins Aaron MacLean live to discuss the 40th president&#8217;s military buildup and what lessons it holds for Trump&#8217;s defense strategy.",
+    "thumb": "data/thumbs/essay-https-www-thefp-com-p-what-reagan-could-teach-trump.jpg"
+   },
+   {
+    "feed": "https://www.thefp.com/feed",
+    "title": "The Video Game Stealing Your Man",
+    "url": "https://www.thefp.com/p/the-video-game-stealing-your-man-grand-theft-auto",
+    "date": "2026-11-20T10:01:41+00:00",
+    "summary": "In this week's Second Thought, Suzy and Dan tackle the game of the century, Robert Pattinson as the James Bond we deserve, and the small town taking down Taylor Swift.",
+    "thumb": "data/thumbs/essay-hefp-com-p-the-video-game-stealing-your-man-grand-theft-auto.jpg"
+   }
+  ],
+  "errors": [
+   "https://embedded.substack.com/feed: HTTP Error 403: Forbidden",
+   "https://afterschool.substack.com/feed: HTTP Error 403: Forbidden",
+   "https://theconvivialsociety.substack.com/feed: HTTP Error 403: Forbidden",
+   "https://freddiedeboer.substack.com/feed: HTTP Error 403: Forbidden",
+   "https://kyla.substack.com/feed: HTTP Error 403: Forbidden",
+   "https://thelouiszhao.substack.com/feed: HTTP Error 403: Forbidden"
+  ]
+ }
+}
